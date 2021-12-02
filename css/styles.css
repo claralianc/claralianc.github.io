@@ -1,0 +1,38 @@
+.blk-border {
+  border: 1px solid black;
+  /* SECTION 1.7: background color:;;;*/
+  background-color: rgba(238, 238, 238, 0.7);
+  /* SECTION 1.5: spacing and padding */
+  margin: 1em;
+}
+margin-bottom lem .blocks {
+  height: 200px;
+  width: 200px;
+  background-color: cyan;
+  margin: 1em;
+}
+
+.flexbox-example {
+  height: 400px;
+}
+
+h1 {
+  /* SECTION 1.2: text color */
+  color: red;
+  /* SECTION 1.8: using imported font */
+}
+
+#green-text {
+  /* SECTION 1.2: text color */
+  color: green;
+}
+
+body {
+  /* SECTION 1.7: background image */
+  background: url("https://cutewallpaper.org/21/ultra-hd-wallpaper/Ultra-HD-4K-Wallpapers-Wallpaper-Cave.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
